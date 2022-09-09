@@ -1,0 +1,4 @@
+requests
+argparse
+kafka-python
+aiohttp
